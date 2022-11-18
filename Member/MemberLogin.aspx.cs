@@ -71,6 +71,7 @@ namespace A8
                             userExists = true; 
                         } else
                         {
+                            Console.WriteLine("Sorry, that is not the right password. Try Again!"); 
                             userExists = false; //user does not exist
                         }
                     } else
