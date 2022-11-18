@@ -66,7 +66,7 @@ namespace A8
                             //create cookie for user 
                             createMemberLoginCookie(username, password);
 
-                            Response.Redirect("Staff/Staff.aspx"); //redirect to staff page 
+                            Response.Redirect("Member/Member.aspx"); //redirect to staff page 
 
                             userExists = true; 
                         } else
