@@ -13,11 +13,10 @@
     <h5>This service takes a textfile and returns the top 10 most frequently occuring words</h5>
     <asp:TextBox ID="Top10Box" runat="server"></asp:TextBox><asp:Button ID="Top10Btn" runat="server" Text="Top10ContentWords" OnClick="Top10Btn_Click"/>
     <h3>Automated Email Service</h3>
-    <h5>This sends an email to someone</h5>
-    <asp:Label ID="Label1" runat="server" Text="From: "></asp:Label><asp:TextBox ID="SenderBox" runat="server"></asp:TextBox>
+    <h5>This sends a "YOU ARE GAY" email to someone</h5>
+    <asp:Label ID="Sender" runat="server" Text="From: "></asp:Label><asp:TextBox ID="SenderBox" runat="server"></asp:TextBox>
     <br />
-    <asp:Label ID="Label2" runat="server" Text="To :"></asp:Label><asp:TextBox ID="RecieverBox" runat="server"></asp:TextBox>
+    <asp:Label ID="Recipient" runat="server" Text="To :"></asp:Label><asp:TextBox ID="RecieverBox" runat="server"></asp:TextBox>
     <br />
-    <asp:Label ID="Label3" runat="server" Text="Message: "></asp:Label><asp:TextBox ID="MessageBox" runat="server"></asp:TextBox><asp:Button ID="SendMessageBtn" runat="server" Text="Button" OnClick="SendMessageBtn_Click"/>
-
+   
 </asp:Content>
