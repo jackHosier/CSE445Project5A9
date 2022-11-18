@@ -1,0 +1,13 @@
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\EmailService.dll.config
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\EmailService.dll
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\EmailService.pdb
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\Antlr3.Runtime.dll
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\ExpressionEvaluator.dll
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\GSF.Core.dll
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\Antlr3.Runtime.pdb
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\bin\GSF.Core.xml
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\obj\Debug\EmailService.csproj.AssemblyReference.cache
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\obj\Debug\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\obj\Debug\EmailService.csproj.CopyComplete
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\obj\Debug\EmailService.dll
+C:\Users\gcpja\OneDrive\Desktop\CSE445Stuff\Project3A6ElectiveServices\EmailService\obj\Debug\EmailService.pdb
